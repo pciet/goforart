@@ -1,6 +1,6 @@
 # Go for art.
 
-*By Matthew Juran (github.com/pciet), April 26th 2018, Soldiers Grove, WI. All Rights Reserved.*
+*By Matthew Juran (github.com/pciet), April 26th 2018, Soldiers Grove, WI. All rights reserved.*
 
 Walking down a European street is a start to art, but so is driving interstate loops on western roads in the U.S.A. where science fiction is just a genre.
 
@@ -8,11 +8,15 @@ At these roads you’ll find forests and deserts on big rocks and flats, you’l
 
 ![Monterey Bay, CA, 2013](https://github.com/pciet/goforart/blob/master/monterey_2013.jpg "Monterey Bay, CA, 2013")
 
+*"Field 5" by Matthew Juran, Monterey Bay, CA, 2013. All rights reserved.*
+
 From the Pacific Ocean over or around the Santa Cruz Mountains into Silicon Valley, where San Jose, Santa Clara, Cupertino, Sunnyvale, Mountain View, Palo Alto, and more municipalities are littered with free religion places of worship known as “tech offices”, you’ll find big company lettering on the buildings are like celebrities for the communicate and compute industries. Shared across this land is the programming art where words are made to coordinate electricity in massive switch networks that span the size of a coin to the size of the Earth.
 
 Go is an English programming language project developed independent of geography, but the source of Google in San Francisco Bay Area culture (include Oakland) might be interesting to know. To me the California mountain isolation, U.S.A. inclusion, world class ocean access, and public roads to anywhere America are influences, but Go does have code from at least New York, Europe, and Australia.
 
 ![Oakland and San Francisco, CA, 1934](https://github.com/pciet/goforart/blob/master/sf_oakland_1934.jpg "Oakland and San Francisco, CA, 1934")
+
+*https://commons.wikimedia.org/wiki/File:%22_Airplane_view_of_the_San_francisco_Bay_Area_looking_west,_taken_over_Lake_Merritt%22_-_NARA_-_296828.jpg*
 
 Interestingly Go is written in Go. You may know that computation electric coordination is done on the transistor processor circuit where sequences of switch configurations make ordered lists of instructions to do math or share numbers. Instead of making ‘0’ and ‘1’ sequences while studying processor documentation Go programmers rely on Go to change easier to understand written words into the sequences. A tradition has been built this way around the words if, for, function, type, and library, and Go is only a continuation of this tradition.
 
@@ -71,13 +75,19 @@ Art is a place where we share ideas, and Go is perfectly suited for art. “Art�
 
 ![Dutch Ships in a Calm, Willem van de Velde the Younger, 1665](https://github.com/pciet/goforart/blob/master/younger_1665.jpg "Dutch Ships in a Calm, Willem van de Velde the Younger, 1665")
 
+*https://commons.wikimedia.org/wiki/File:Willem_van_de_Velde_II_-_Dutch_men-o%27-war_and_other_shipping_in_a_calm.jpg*
+
 And look at this photograph:
 
 ![Apollo 17, December 1972](https://github.com/pciet/goforart/blob/master/apollo17_1972.jpg "Apollo 17, December 1972")
 
+*https://www.flickr.com/photos/projectapolloarchive/*
+
 And see how much fun these people (some are painters) are having:
 
 ![Hipp hipp hurra! Konstnärsfest på Skagen-Peder Severin Krøyer colony of painters, 1888](https://github.com/pciet/goforart/blob/master/krøyer_1888.jpg "Hipp hipp hurra! Konstnärsfest på Skagen-Peder Severin Krøyer colony of painters, 1888")
+
+*https://en.wikipedia.org/wiki/File:Hipp_hipp_hurra!_Konstn%C3%A4rsfest_p%C3%A5_Skagen_-_Peder_Severin_Kr%C3%B8yer.jpg*
 
 Here are some of the art ideas I’ve had that could use Go.
 
