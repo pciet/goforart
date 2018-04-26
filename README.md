@@ -19,9 +19,9 @@ Interestingly Go is written in Go. You may know that computation electric coordi
 Google has given most people a license to use Go, and Google employees coordinate a public effort for Go in English on the Internet.
 
 * Code of Conduct: https://golang.org/conduct
-* Issues: github.com/golang/go/issues
-* Use Discussion: groups.google.com/forum/#!forum/golang-nuts
-* Development: groups.google.com/forum/#!forum/golang-dev
+* Issues: https://github.com/golang/go/issues
+* Use Discussion: https://groups.google.com/forum/#!forum/golang-nuts
+* Development: https://groups.google.com/forum/#!forum/golang-dev
 
 The ideas of structuring if, for, functions, types, and libraries is an art that I think many people might like. What Go brings is less wading through mud than C languages, Java languages, or scripting languages.
 
@@ -75,7 +75,7 @@ And look at this photograph:
 
 ![Apollo 17, December 1972](https://github.com/pciet/goforart/blob/master/apollo17_1972.jpg "Apollo 17, December 1972")
 
-And see how much fun these painters are having:
+And see how much fun these people (some are painters) are having:
 
 ![Hipp hipp hurra! Konstnärsfest på Skagen-Peder Severin Krøyer colony of painters, 1888](https://github.com/pciet/goforart/blob/master/krøyer_1888.jpg "Hipp hipp hurra! Konstnärsfest på Skagen-Peder Severin Krøyer colony of painters, 1888")
 
@@ -83,7 +83,7 @@ Here are some of the art ideas I’ve had that could use Go.
 
 An Internet collectible chess piece game. This has been a focus of mine for a few years (see wichess). In the world of Internet games I’ve had a few other ideas including a turn-based American football grid game with fantasy football elements, and a grid-based social media game that generates ray-traced scenes (like in Myst) but where you can talk to other people with microphones and where gardening is a significant feature. Go would be useful in microservice server implementations and I hoped to share them in a way where the game can be setup on a network independent of any Internet service.
 
-A linking music website. On bandcamp.com as an artist you can recommend up to three albums and you can arbitrarily tag your work, but I like the idea of a stronger genre system with the ability to link your work to that of others to build realistic genre maps.
+A linking music website. On https://bandcamp.com as an artist you can recommend up to three albums and you can arbitrarily tag your work, but I like the idea of a stronger genre system with the ability to link your work to that of others to build realistic genre maps.
 
 Local networks that share information. For example, if you play chess on one local network then you are able to take your collectible pieces to another local network in a fun and fair way. I had the idea of a currency that works on these, and this would be another way to share art that can’t possibly be modified by other people.
 
