@@ -2,6 +2,10 @@
 
 *By Matthew Juran (github.com/pciet), April 26th 2018, Soldiers Grove, WI. All rights reserved.*
 
+*This article is intended for adult readers only because of religion and politics content.*
+
+*If you decide to follow the suggestion of driving then be sure to follow driving laws and have significant driving experience first. Driving is dangerous.*
+
 Walking down a European street is a start to art, but so is driving interstate loops on western roads in the U.S.A. where science fiction is just a genre.
 
 At these roads you’ll find forests and deserts on big rocks and flats, you’ll find streams and rivers, gas stations, fast food, brown park signs, and anxious “can I wait 30 miles” blue signs for clean plus uniquely scenic rest stops with bathrooms and free water for personal use. Watch for elk or deer if you go at night and have an emergency kit with lots of the free water; the cell network doesn’t reach many of these places and the weather is deadly. Take a nap away from that inside land in Big Sur, Santa Cruz, or Pacifica with the window down.
